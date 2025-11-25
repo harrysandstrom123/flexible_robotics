@@ -1,0 +1,1 @@
+To run the homework file download Homework4.py and utils.py and put them in their own directory. Then run your python kernel of choice. The program if the correct sections are uncommented should run all diameters and applied forces and spit them out at the end to be plotted elsewhere.
